@@ -11,6 +11,7 @@ Unfortunately, Maria received a request from the School Board to replace the 9th
 With the replacement of 9th grade scores to "NaN" for Thomas High School, the District Summary overall passing % was affected by a slightly changes in the % Passing of Math, Reading & Overall. See details in next images:
    
 - Old Dictric Summary
+
 ![old_Distric_Summary](https://user-images.githubusercontent.com/87447639/132947847-610ca4de-c62f-4f6c-bd84-39cafa8974c5.PNG)
 
 - New Distric summary 
@@ -34,7 +35,7 @@ The school summary was affected in Thomas High School with a slighly changes in 
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   
-  With the replacemente of 9th grade scores in Thomas Hight School, the school summary overrall passing %  was affected by:
+  With the replacemente of 9th grade scores in Thomas Hight School, the school summary passing %  was affected by:
  - % Passing Math from 93.27% to 93.18% 
   
  - % Passing Reading 97.30% to 97.01 % 
@@ -100,4 +101,4 @@ The changes in ninth-grade scores did not affect the scores by school type.
 - We had to calculate the new passing percentages (for math & reading in THS) with the new total count of students.
    - Results for Thomas High School: % Passing Math changed from 93.27% to 93.18%. 
    - Results for Thomas High School: % Passing Reading changed 97.30% to 97.01 % 
-- The scores by school spending, school size and school type remained the same, becasuse we need to calculate thems with the same amount of total studend regardless their scores in math and reading. 
+- The scores by school spending, school size and school type remained the same, because we need to calculate thems with the same amount of total studend regardless their scores in math and reading. 
